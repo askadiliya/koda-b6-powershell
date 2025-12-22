@@ -1,0 +1,7 @@
+cari 20 perintah powershale
+1. GET-HELP => memberikan informasi yang diperlukan
+
+2. Get-Command => menampilkan daftar perintah dari fitur tertentu
+3. Invoke-Command => untuk menjalankan perintah atau skrip PowerShell secara local atau Jarak jauh
+4. Invoke-Expression => menjalankan perintah atau expresi lain
+5 Invoke-WebRequest => untuk mengunduh, login dan mencari informasi di ditus web

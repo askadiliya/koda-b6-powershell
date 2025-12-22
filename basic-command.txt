@@ -1,7 +1,21 @@
 cari 20 perintah powershale
 1. GET-HELP => memberikan informasi yang diperlukan
-
 2. Get-Command => menampilkan daftar perintah dari fitur tertentu
 3. Invoke-Command => untuk menjalankan perintah atau skrip PowerShell secara local atau Jarak jauh
 4. Invoke-Expression => menjalankan perintah atau expresi lain
-5 Invoke-WebRequest => untuk mengunduh, login dan mencari informasi di ditus web
+5. Invoke-WebRequest => untuk mengunduh, login dan mencari informasi di ditus web
+6. set-ExecutionPolicy => membuat dan menjalankan skrip
+7. get-Item =>  mencari informasi tentang suatu item di lokasi tertentu
+8. Copy-Item => menyalin dan mengganti nama item dalam perintah yang sama — berikan nama baru sebagai tujuan
+9. Remove-Item => menghapus item seperti file
+10. Get-Content => melihat isi file teks di lokasi tertentu
+11. Set-Content => mengambil isi dari satu file dan menyalinnya ke file lain
+12. Get Variable
+13. Set-Variable =>  menetapkan atau mengubah/mengatur ulang nilai variabel
+14. Get-Process => untuk mendapatkan daftar proses yang sedang berjalan
+15. Start-Process =>memudahkan untuk memulai satu atau lebih proses di komputer
+16. Stop-Process => menghentikan instance tertentu atau semua instance dari sebuah proses yang berjalan di komputer 
+17. Get-Service => Saat Anda membutuhkan informasi tentang layanan tertentu (berjalan atau dihentikan) di komputer Anda
+18. Start-Service => ingin memulai layanan di komputer
+19. Stop-Service => Jika Anda ingin menghentikan layanan yang berjalan di komputer
+20. ConvertTo-HTML =>  untuk membuat dan memformat laporan untuk menganalisisnya atau mengirimkannya kepada seseorang

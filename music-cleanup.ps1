@@ -1,0 +1,1 @@
+Remove-Item -Path D:\koda-bach6\Musik\Music
